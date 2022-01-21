@@ -4,7 +4,7 @@ Encoding of Seed Words is achieved via a center punch tool.<br/>
 <br/>
 <br/>
 ## Specification  
-• Consists of two plates.<br/>
+• Consists of 2 plates.<br/>
 • Dimensions: 94mm x 57.6mm.<br/>
 • Constructed out of 2mm thick highly polished stainless steel.<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
