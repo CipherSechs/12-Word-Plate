@@ -1,6 +1,9 @@
 # 12-Word-Plate™
-Similar to the 6-Word-Plate™, same sized but offers storage for 12 Seed Words per plate.<br/>
+Similar to the 6-Word-Plate™, same size but offers storage for 12 Seed Words per plate.<br/>
 Encoding of Seed Words is achieved via a center punch tool.<br/>
+<br/>
+<br/>
+![12-Word-Plate - Variations](https://user-images.githubusercontent.com/97874862/150568085-028d1ab0-a5b5-432a-a44d-4c5d5967ef9c.png)<br/>
 <br/>
 <br/>
 ## Specification  
