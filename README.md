@@ -25,6 +25,9 @@ Encoding of Seed Words is achieved via a center punch tool.<br/>
 <br/>
 <br/>
 <br/>
+![PHOTO - 12-Word-Plate ALL](https://user-images.githubusercontent.com/97874862/150668018-a4de7b2c-732f-4f08-bf8a-0443cfeaa423.png)
+<br/>
+<br/>
 ## DISCLAIMER
 ###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
 <br/>
